@@ -1,4 +1,4 @@
-package dev.ash.core.lib.doc.controllers;
+package com.ashishbagdane.lib.doc.controllers;
 
 import io.swagger.v3.oas.annotations.media.Content;
 import io.swagger.v3.oas.annotations.media.Schema;
